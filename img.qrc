@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/微信图片_20220503101549.png</file>
+    </qresource>
+</RCC>
